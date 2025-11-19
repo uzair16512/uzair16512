@@ -1,16 +1,20 @@
-## Hi there 👋
+ Hi Uzair here 👋
+ 
+Welcome to my GitHub profile! I'm doing BACHELORS in Computer Science and love exploring new technologies and projects.
 
-<!--
-**uzair16512/uzair16512** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+  🚀 About Me
+- 🎓 CS student obsessed with understanding *how things work*  
+- 🧠 Big on algorithms, clean code, and building meaningful projects  
+- ⚡ Fun fact: I debug faster with coffee… or lo-fi beats  
+- 🌱 I’m currently learning: HTML, CSS, JavaScript, Java
+- 👯 I want to collaborate on beginner-friendly projects  
+- 📫 How to reach me: uzair72404@iqra.edu.pk
 
-Here are some ideas to get you started:
+🔧 Tech Stack
+- Languages: Python, JavaScript  
+- Tools: Git, VS Code , Intellijidea, Node.js
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📈 Current Goals
+- Learning GitHub
+- Building cool projects
+- Exploring open-source
