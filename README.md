@@ -8,7 +8,7 @@ Welcome to my GitHub profile! I'm doing BACHELORS in Computer Science and love e
 - ⚡ Fun fact: I debug faster with coffee… or lo-fi beats  
 - 🌱 I’m currently learning: HTML, CSS, JavaScript, Java
 - 👯 I want to collaborate on beginner-friendly projects  
-- 📫 How to reach me: uzair72404@iqra.edu.pk
+- 📫 How to reach me: uzair.72404@iqra.edu.pk
 
 🔧 Tech Stack
 - Languages: Python, JavaScript  
