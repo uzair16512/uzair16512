@@ -1,14 +1,14 @@
- Hi Uzair here 👋
+ Hi Uzair here 
  
 Welcome to my GitHub profile! I'm doing BACHELORS in Computer Science and love exploring new technologies and projects.
 
   🚀 About Me
-- 🎓 CS student obsessed with understanding *how things work*  
-- 🧠 Big on algorithms, clean code, and building meaningful projects  
-- ⚡ Fun fact: I debug faster with coffee… or lo-fi beats  
-- 🌱 I’m currently learning: HTML, CSS, JavaScript, Java
-- 👯 I want to collaborate on beginner-friendly projects  
-- 📫 How to reach me: uzair.72404@iqra.edu.pk
+-  CS student obsessed with understanding *how things work*  
+-  Big on algorithms, clean code, and building meaningful projects  
+-  Fun fact: I debug faster with coffee… or lo-fi beats  
+-  I’m currently learning: HTML, CSS, JavaScript, Java
+-  I want to collaborate on beginner-friendly projects  
+-  How to reach me: uzair.72404@iqra.edu.pk
 
 🔧 Tech Stack
 - Languages: Python, JavaScript  
