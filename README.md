@@ -1,7 +1,7 @@
-# Hi, I'm Uzair 👋
+Hi, I'm Uzair 👋
 
 Welcome to my GitHub profile!  
-I'm a **Bachelor's student in Computer Science passionate about understanding how systems work, building meaningful projects, and exploring new technologies.
+I'm a Bachelor's student in Computer Science passionate about understanding how systems work, building meaningful projects, and exploring new technologies.
 
 About Me:
 
