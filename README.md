@@ -1,20 +1,38 @@
- Hi Uzair here 
- 
-Welcome to my GitHub profile! I'm doing BACHELORS in Computer Science and love exploring new technologies and projects.
+# Hi, I'm Uzair 👋
 
-  🚀 About Me
--  CS student obsessed with understanding *how things work*  
--  Big on algorithms, clean code, and building meaningful projects  
--  Fun fact: I debug faster with coffee… or lo-fi beats  
--  I’m currently learning: HTML, CSS, JavaScript, Java
--  I want to collaborate on beginner-friendly projects  
--  How to reach me: uzair.72404@iqra.edu.pk
+Welcome to my GitHub profile!  
+I'm a **Bachelor's student in Computer Science passionate about understanding how systems work, building meaningful projects, and exploring new technologies.
 
-🔧 Tech Stack
-- Languages: Python, JavaScript  
-- Tools: Git, VS Code , Intellijidea, Node.js
+About Me:
 
-📈 Current Goals
-- Learning GitHub
-- Building cool projects
-- Exploring open-source
+- CS student obsessed with understanding *how things work*
+- Interested in backend development, databases, and data analytics
+- Enjoy building clean and practical projects
+- Fun fact: I debug faster with coffee ☕ or lo-fi beats 🎧
+- Open to collaborating on beginner-friendly projects
+
+📫How to reach me: uzair.72404@iqra.edu.pk
+
+Tech Stack:
+
+- Languages:** Python, JavaScript, SQL
+- Web Development:** HTML, CSS, Node.js
+- Database:** MySQL, DBMS Concepts
+- Data Analytics:** Power BI, Data Visualization
+- Tools:** Git, VS Code, IntelliJ IDEA
+
+Data & Analytics:
+
+- Writing SQL queries and database design
+- Understanding relational database management systems (DBMS)
+- Data analysis and dashboard creation using Power BI
+- Data visualization and insights generation
+
+Current Goals:
+
+- Improving Backend Development skills
+- Mastering SQL and Database Design
+- Learning Data Analytics with Power BI
+- Building real-world projects
+- Contributing to open-source
+
